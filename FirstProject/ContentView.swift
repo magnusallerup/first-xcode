@@ -12,7 +12,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
             if isTextShowing {
-                Text("Hello, magnus!")
+                Text("Hello, new branch")
                     .padding()
                     .font(.title)
             } else {
