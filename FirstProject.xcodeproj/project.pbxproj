@@ -51,8 +51,8 @@
 		9AC0B150270B68C800F2AA2D /* FirstProject */ = {
 			isa = PBXGroup;
 			children = (
-				9AC0B151270B68C800F2AA2D /* FirstProjectApp.swift */,
 				9AC0B153270B68C800F2AA2D /* ContentView.swift */,
+				9AC0B151270B68C800F2AA2D /* FirstProjectApp.swift */,
 				9AC0B155270B68C900F2AA2D /* Assets.xcassets */,
 				9AC0B157270B68C900F2AA2D /* Preview Content */,
 			);
